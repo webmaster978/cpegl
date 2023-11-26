@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteRule ^dashboard$ index.php
+RewriteRule ^profile$ profile.php
+RewriteRule ^personnes$ personnes.php
+RewriteRule ^avenues$ avenues.php
+RewriteRule ^quartier$ quartier.php
+RewriteRule ^communes$ communes.php
+RewriteRule ^villes$ villes.php
+RewriteRule ^commande$ commande.php
+RewriteRule ^printe$ printe.php
